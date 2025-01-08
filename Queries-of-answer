@@ -1,0 +1,22 @@
+I recently completed an analysis of a Netflix dataset, diving deep into the titles of movies and TV shows. Using SQL, I was able to extract valuable insights and answer several key questions about the content available on the platform.
+
+🔍 **Key Highlights of the Analysis:**
+1. **Listing All Titles**: Compiled a comprehensive list of titles along with their show IDs and types.
+2. **Movies Overview**: Displayed detailed information about all movies in the dataset.
+3. **TV Shows from 2021**: Isolated TV shows released in the past year to assess new content.
+4. **Family Content Search**: Identified titles that include "family" in their descriptions, highlighting family-friendly options.
+5. **Total Title Count**: Calculated the total number of titles available on the platform.
+6. **Average Movie Duration**: Analyzed movie durations while factoring in seasonal content.
+7. **Latest Releases**: Listed the top 5 latest titles added to Netflix.
+8. **Director Insights**: Examined how many titles each director has, showcasing their contributions.
+9. **Country-Specific Titles**: Mapped the total number of titles by country, revealing geographical trends.
+10. **Rating Categories**: Categorized titles based on ratings, helping viewers find suitable content.
+11. **Title Length Calculation**: Added a new column to assess title lengths for better analytics.
+12. **Longest Duration Title**: Identified the title with the longest duration, perfect for binge-watchers.
+13. **Recent Titles View**: Created a view to highlight titles added in the last 30 days.
+14. **Average Ratings by Country**: Discovered which country has the highest average title rating.
+15. **Title Comparison**: Found pairs of titles from the same country with different ratings, revealing competition among content.
+
+This project was a great opportunity to enhance my SQL skills and gain insights into content trends. 📈
+
+I’m eager to connect with fellow data enthusiasts and discuss insights or share experiences in data analysis! Let’s connect!
